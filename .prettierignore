@@ -1,0 +1,12 @@
+
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+.terraform/
+terraform.tfstate*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
